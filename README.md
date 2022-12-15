@@ -1,1 +1,1 @@
-# Discord-Profile-Card
+# Discord-Profile-Webcard
