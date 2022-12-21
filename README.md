@@ -1,3 +1,5 @@
 # Discord-Profile-Webcard
 
-![image](https://user-images.githubusercontent.com/32937876/208314347-5126f569-8b37-4a5b-8021-1668ebf56121.png)
+![skizcard](https://user-images.githubusercontent.com/32937876/208944103-561adb64-e368-415c-8056-f7df234bc8bc.PNG)
+
+> Pour utiliser `Discord-Profile-Webcard`, veuillez mettre une **star** sur le dépôt git pour montrer votre soutien.
