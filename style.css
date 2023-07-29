@@ -125,10 +125,24 @@ circle{
     font-weight: 600;
     font-size: 25px;
     font-family: 'Noto Sans', sans-serif;
+    margin-top: 25px;
+    line-height: 1px;
 }
-.content .pseudo h1 span{
+
+.content .pseudo h6{
+    color: #000000;
+    font-weight: 400;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    margin-bottom: 15px;
+    line-height: 1px;
+    padding-top: 15px;
+    margin-top: 0px;
+}
+
+/*.content .pseudo h1 span{
     color: #797979;
-}
+}*/
 
 /*Content Scroll*/
 .scroll{
